@@ -5,4 +5,4 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /js/
 
-Sitemap: https://your-domain.com/sitemap.xml
+Sitemap: https://official-gates-of-olympus.com/sitemap.xml
